@@ -1,7 +1,7 @@
 {
-  "name": "club_plus_web",
+  "name": "template",
   "version": "0.0.0",
-  "description": "Banese's Clube + web page.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "grunt karma"
